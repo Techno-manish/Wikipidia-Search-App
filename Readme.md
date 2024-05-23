@@ -1,1 +1,1 @@
-<h1 style="text-align: center">WIKIPIDIA SEARCH APP</h1>
+<h1>WIKIPIDIA SEARCH APP</h1>
